@@ -13,6 +13,8 @@ find_average_num_probes: Computes average number of probes required to find a ke
 
 Important: Use imin when selecting which entry to move if there are multiple minimum i+j<s.
 
+<hr>
+
 You can compile this project by typing below code in your terminal
 
 <img width="164" alt="Ekran Resmi 2023-01-11 21 38 42" src="https://user-images.githubusercontent.com/79373487/211914791-4f6acaaa-e31e-4c76-8f8c-b4f215ebe992.png">
