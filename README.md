@@ -12,3 +12,5 @@ Find_num_probes: This function’s job is to find out how many ‘hops’ are re
 find_average_num_probes: Computes average number of probes required to find a key in this table. Find how many probes it takes to find all keys inside the hash table, and divide it by the number of valid entries.
 
 Important: Use imin when selecting which entry to move if there are multiple minimum i+j<s.
+
+test
